@@ -8,5 +8,6 @@ dependencies:
     - plotly
     - matplotlib
     - sklearn
+    - seaborn
     - map
 
