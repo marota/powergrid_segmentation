@@ -1,0 +1,9 @@
+*.txt
+*.csv
+.ipynb_checkpoints
+partition-validation/
+.ipynb_checkpoints/infomap-examples-checkpoint.ipynb
+results/*.tree
+results/*.txt
+results/*.csv
+results/*.pdf

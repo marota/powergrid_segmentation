@@ -1,0 +1,12 @@
+dependencies:
+  - pandas
+  - numpy
+  - pip:
+    - networkx
+    - infomap
+    - pydot
+    - plotly
+    - matplotlib
+    - sklearn
+    - map
+
